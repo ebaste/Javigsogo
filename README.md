@@ -1,6 +1,6 @@
 Proyecto JaviGSogo
 ==================
 
-Mi repositorio JaviGSogo
+Mi repositorio *JaviGSogo*
 
-Estamos probando el git hub 
+Estamos **probando** el git hub 
